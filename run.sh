@@ -2,4 +2,4 @@
 
 # see: https://github.com/sergiokopplin/indigo
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --port 3000
