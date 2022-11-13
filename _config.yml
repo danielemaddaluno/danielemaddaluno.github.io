@@ -1,6 +1,6 @@
 # main text of home
 title: Daniele Maddaluno
-bio: A Person who travels the world eating noodles 😜 🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
+bio: A Person who travels the world eating noodles<br>😜 🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -108,6 +108,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-admin
 
 compress_html:
   ignore:
