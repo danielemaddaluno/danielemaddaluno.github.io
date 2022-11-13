@@ -1,6 +1,11 @@
 # main text of home
 title: Daniele Maddaluno
-bio: A Person who travels the world eating noodles 😜<br>🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
+bio: 😜 🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨 <br><div style="margin-top&colon; 10px;">Teacher 📚, Tech-Trotter 👾, Trader 📈</div>
+
+# Teacher 📚, Tech-Trotter 👾, Trader 📈
+# Teacher :books:, Tech-Trotter :space_invader:, Trader :chart_with_upwards_trend:</div>
+# 😜 🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
+# :stuck_out_tongue_winking_eye: :cookie: :chocolate_bar: :watermelon: :leaves: :whale: :cyclone: :rainbow: :art:
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +21,7 @@ dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://www.linkedin.com/in/maddaluno/
 
