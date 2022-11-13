@@ -1,6 +1,6 @@
 # main text of home
 title: Daniele Maddaluno
-bio: A Person who travels the world eating noodles<br>😜 🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
+bio: A Person who travels the world eating noodles 😜<br>🍪 🍫 🍉 🍃 🐳 🌀 🌈 🎨
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,13 +12,13 @@ picture: assets/images/profile_maddaluno.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.linkedin.com/in/maddaluno/
 
 url: https://madx.it
 
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: maddaluno.daniele
+twitter: madx37
+instagram: madx.it
+linkedin: maddaluno
+github: danielemaddaluno
+#email: myemail@gmail.com
 
 authors:
   danielemaddaluno:
@@ -57,7 +57,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
